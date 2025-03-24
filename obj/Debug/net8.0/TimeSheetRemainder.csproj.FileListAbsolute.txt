@@ -1,0 +1,17 @@
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.AssemblyInfoInputs.cache
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.AssemblyInfo.cs
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.csproj.CoreCompileInputs.cache
+D:\Documents\Vasanth-Training\TimeSheetRemainder\bin\Debug\net8.0\TimeSheetRemainder.exe
+D:\Documents\Vasanth-Training\TimeSheetRemainder\bin\Debug\net8.0\TimeSheetRemainder.deps.json
+D:\Documents\Vasanth-Training\TimeSheetRemainder\bin\Debug\net8.0\TimeSheetRemainder.runtimeconfig.json
+D:\Documents\Vasanth-Training\TimeSheetRemainder\bin\Debug\net8.0\TimeSheetRemainder.dll
+D:\Documents\Vasanth-Training\TimeSheetRemainder\bin\Debug\net8.0\TimeSheetRemainder.pdb
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.dll
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\refint\TimeSheetRemainder.dll
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.pdb
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.genruntimeconfig.cache
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\ref\TimeSheetRemainder.dll
+D:\Documents\Vasanth-Training\TimeSheetRemainder\bin\Debug\net8.0\CsvHelper.dll
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeSheetRemainder.csproj.AssemblyReference.cache
+D:\Documents\Vasanth-Training\TimeSheetRemainder\obj\Debug\net8.0\TimeShee.ABA33757.Up2Date

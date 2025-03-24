@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSsYq8RetFFkYuvyE1ZwfvRrcELi590eX/nKzbSiz7DC2vz/bJeiak+wrcClfjwKMCqRdIqXxalzDvcVTjN4JQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Vasanth-Training\\TimeSheetRemainder\\TimeSheetRemainder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasanth.raja\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
