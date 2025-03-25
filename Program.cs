@@ -9,6 +9,7 @@ namespace TimeSheetRemainder
         public static void Main()
         {
             RemainderMail testClass = new RemainderMail();
+            Console.WriteLine("Welcome");
             testClass.sendMail();
         }
     }
