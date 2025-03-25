@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeSheetRemainder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+662eb1b64d233da4b9ed1f5327dd4c391bbaedbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeSheetRemainder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeSheetRemainder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
